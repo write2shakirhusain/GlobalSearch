@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Sangam Enterprises</string>
+		<key>tag</key>
+		<string># Jacket</string>
+		<key>phone</key>
+        <string>#Mobile</string>
+		<key>email</key>
+		<string>sangam@gmail.com</string>
+		<key>address</key>
+		<string>Katra Ahluwalia, Amritsar</string>
+		<key>image</key>
+		<string>jacketOne</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Neelam Fashion</string>
+		<key>tag</key>
+		<string># Jacket</string>
+		<key>phone</key>
+		<string>#Mobile</string>
+		<key>email</key>
+		<string>neelam@gmail.com</string>
+		<key>address</key>
+		<string>Main Sultanwind Road, Amritsar</string>
+		<key>image</key>
+		<string>jacketTwo</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Singh Textiles</string>
+		<key>tag</key>
+		<string># Jacket</string>
+		<key>phone</key>
+		<string>#Mobile</string>
+		<key>email</key>
+		<string>singh02@gmail.com</string>
+		<key>address</key>
+		<string>East Mohan Nagar, Amritsar</string>
+		<key>image</key>
+		<string>jacketThree</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Tweed Woolen Jackets</string>
+		<key>tag</key>
+		<string># Jacket</string>
+		<key>phone</key>
+		<string>#Mobile</string>
+		<key>email</key>
+		<string>twed002@gmail.com</string>
+		<key>address</key>
+		<string>Focal Point Amritsar</string>
+		<key>image</key>
+		<string>jacketFour</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Jacket Factory</string>
+		<key>tag</key>
+		<string># Jacket</string>
+		<key>phone</key>
+		<string>#Mobile</string>
+		<key>email</key>
+		<string>jacket009@gmail.com</string>
+		<key>address</key>
+		<string>Tirath Nagar Amritsar</string>
+		<key>image</key>
+		<string>jacketFive</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Malliram Jewellery House</string>
+		<key>tag</key>
+		<string># Gold</string>
+		<key>phone</key>
+		<string>#Mobile</string>
+		<key>email</key>
+		<string>sangam@gmail.com</string>
+		<key>address</key>
+		<string>Katra Ahluwalia, Amritsar</string>
+		<key>image</key>
+		<string>goldOne</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Nagi Diamond Jewellers</string>
+		<key>tag</key>
+		<string># Gold</string>
+		<key>phone</key>
+		<string>#Mobile</string>
+		<key>email</key>
+		<string>sangam@gmail.com</string>
+		<key>address</key>
+		<string>Katra Ahluwalia, Amritsar</string>
+		<key>image</key>
+		<string>goldTwo</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>S.K. Jewellers</string>
+		<key>tag</key>
+		<string># Gold</string>
+		<key>phone</key>
+		<string>#Mobile</string>
+		<key>email</key>
+		<string>sangam@gmail.com</string>
+		<key>address</key>
+		<string>Katra Ahluwalia, Amritsar</string>
+		<key>image</key>
+		<string>goldThree</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>PC Jeweller Limited</string>
+		<key>tag</key>
+		<string># Gold</string>
+		<key>phone</key>
+		<string>#Mobile</string>
+		<key>email</key>
+		<string>sangam@gmail.com</string>
+		<key>address</key>
+		<string>Katra Ahluwalia, Amritsar</string>
+		<key>image</key>
+		<string>goldFour</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Singh Jewellers</string>
+		<key>tag</key>
+		<string># Gold</string>
+		<key>phone</key>
+		<string>#Mobile</string>
+		<key>email</key>
+		<string>sangam@gmail.com</string>
+		<key>address</key>
+		<string>Katra Ahluwalia, Amritsar</string>
+		<key>image</key>
+		<string>goldFive</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>NIKE</string>
+		<key>tag</key>
+		<string># Shoes</string>
+		<key>phone</key>
+		<string>#Mobile</string>
+		<key>email</key>
+		<string>sangam@gmail.com</string>
+		<key>address</key>
+		<string>Katra Ahluwalia, Amritsar</string>
+		<key>image</key>
+		<string>shoesOne</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>BATA SHOE STORE</string>
+		<key>tag</key>
+		<string># Shoes</string>
+		<key>phone</key>
+		<string>#Mobile</string>
+		<key>email</key>
+		<string>sangam@gmail.com</string>
+		<key>address</key>
+		<string>Katra Ahluwalia, Amritsar</string>
+		<key>image</key>
+		<string>shoesTwo</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Raunak Punjabi Jutti</string>
+		<key>tag</key>
+		<string># Shoes</string>
+		<key>phone</key>
+		<string>#Mobile</string>
+		<key>email</key>
+		<string>sangam@gmail.com</string>
+		<key>address</key>
+		<string>Katra Ahluwalia, Amritsar</string>
+		<key>image</key>
+		<string>shoesThree</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Vijay Shoes</string>
+		<key>tag</key>
+		<string># Shoes</string>
+		<key>phone</key>
+		<string>#Mobile</string>
+		<key>email</key>
+		<string>sangam@gmail.com</string>
+		<key>address</key>
+		<string>Katra Ahluwalia, Amritsar</string>
+		<key>image</key>
+		<string>shoesFour</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Adidas Amritsar</string>
+		<key>tag</key>
+		<string># Shoes</string>
+		<key>phone</key>
+		<string>#Mobile</string>
+		<key>email</key>
+		<string>sangam@gmail.com</string>
+		<key>address</key>
+		<string>Katra Ahluwalia, Amritsar</string>
+		<key>image</key>
+		<string>shoesFive</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Amritsar Medical Store</string>
+		<key>tag</key>
+		<string># Medical</string>
+		<key>phone</key>
+		<string>#Mobile</string>
+		<key>email</key>
+		<string>sangam@gmail.com</string>
+		<key>address</key>
+		<string>Katra Ahluwalia, Amritsar</string>
+		<key>image</key>
+		<string>medicalOne</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>A.P. Medical Store</string>
+		<key>tag</key>
+		<string># Medical</string>
+		<key>phone</key>
+		<string>#Mobile</string>
+		<key>email</key>
+		<string>sangam@gmail.com</string>
+		<key>address</key>
+		<string>Katra Ahluwalia, Amritsar</string>
+		<key>image</key>
+		<string>medicalTwo</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>R.D Medical Store</string>
+		<key>tag</key>
+		<string># Medical</string>
+		<key>phone</key>
+		<string>#Mobile</string>
+		<key>email</key>
+		<string>sangam@gmail.com</string>
+		<key>address</key>
+		<string>Katra Ahluwalia, Amritsar</string>
+		<key>image</key>
+		<string>medicalThree</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Mahajan Medical Store</string>
+		<key>tag</key>
+		<string># Medical</string>
+		<key>phone</key>
+		<string>#Mobile</string>
+		<key>email</key>
+		<string>sangam@gmail.com</string>
+		<key>address</key>
+		<string>Katra Ahluwalia, Amritsar</string>
+		<key>image</key>
+		<string>medicalFour</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Gurinder Singh Chemist</string>
+		<key>tag</key>
+		<string># Medical</string>
+		<key>phone</key>
+		<string>#Mobile</string>
+		<key>email</key>
+		<string>sangam@gmail.com</string>
+		<key>address</key>
+		<string>Katra Ahluwalia, Amritsar</string>
+		<key>image</key>
+		<string>medicalFive</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Amritsar Car Accessories</string>
+		<key>tag</key>
+		<string># Cars</string>
+		<key>phone</key>
+		<string>#Mobile</string>
+		<key>email</key>
+		<string>sangam@gmail.com</string>
+		<key>address</key>
+		<string>Katra Ahluwalia, Amritsar</string>
+		<key>image</key>
+		<string>carOne</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Amritsar Auto Agency</string>
+		<key>tag</key>
+		<string># Cars</string>
+		<key>phone</key>
+		<string>#Mobile</string>
+		<key>email</key>
+		<string>sangam@gmail.com</string>
+		<key>address</key>
+		<string>Katra Ahluwalia, Amritsar</string>
+		<key>image</key>
+		<string>carTwo</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Riddhi Ford</string>
+		<key>tag</key>
+		<string># Cars</string>
+		<key>phone</key>
+		<string>#Mobile</string>
+		<key>email</key>
+		<string>sangam@gmail.com</string>
+		<key>address</key>
+		<string>Katra Ahluwalia, Amritsar</string>
+		<key>image</key>
+		<string>carThree</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>MRF Tyre Dealer</string>
+		<key>tag</key>
+		<string># Cars</string>
+		<key>phone</key>
+		<string>#Mobile</string>
+		<key>email</key>
+		<string>sangam@gmail.com</string>
+		<key>address</key>
+		<string>Katra Ahluwalia, Amritsar</string>
+		<key>image</key>
+		<string>carFour</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Harpreet Ford</string>
+		<key>tag</key>
+		<string># Cars</string>
+		<key>phone</key>
+		<string>#Mobile</string>
+		<key>email</key>
+		<string>sangam@gmail.com</string>
+		<key>address</key>
+		<string>Katra Ahluwalia, Amritsar</string>
+		<key>image</key>
+		<string>carFive</string>
+	</dict>
+</array>
+</plist>
