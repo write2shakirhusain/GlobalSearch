@@ -51,7 +51,6 @@
 		8075FA9F21BD7F6000697098 /* Utility.m in Sources */ = {isa = PBXBuildFile; fileRef = 8075FA7B21BD7F6000697098 /* Utility.m */; };
 		8075FAA221BD80F700697098 /* GlobalSearchScrollViewDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8075FAA021BD80F700697098 /* GlobalSearchScrollViewDelegate.m */; };
 		8075FAA621BD876900697098 /* GlobalSearchDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8075FAA521BD876900697098 /* GlobalSearchDetailViewController.m */; };
-		8075FAA921BD9F2400697098 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 8075FAA821BD9F2400697098 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -134,7 +133,6 @@
 		8075FAA421BD876900697098 /* GlobalSearchDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GlobalSearchDetailViewController.h; sourceTree = "<group>"; };
 		8075FAA521BD876900697098 /* GlobalSearchDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GlobalSearchDetailViewController.m; sourceTree = "<group>"; };
 		8075FAA721BD88DB00697098 /* GlobalSearchHeaders.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GlobalSearchHeaders.h; sourceTree = "<group>"; };
-		8075FAA821BD9F2400697098 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -221,7 +219,6 @@
 		8075FA4821BD7F6000697098 /* GlobalSearchClasses */ = {
 			isa = PBXGroup;
 			children = (
-				8075FAA821BD9F2400697098 /* README.md */,
 				8075FAA721BD88DB00697098 /* GlobalSearchHeaders.h */,
 				8075FA4C21BD7F6000697098 /* GlobalSearchProtocols.h */,
 				8075FA4D21BD7F6000697098 /* GlobalSearchViewController */,
@@ -444,7 +441,6 @@
 				8075FA8721BD7F6000697098 /* carThree@2x.png in Resources */,
 				8075FA9421BD7F6000697098 /* medicalFour@2x.png in Resources */,
 				806395AF21BA5314002BBD92 /* Assets.xcassets in Resources */,
-				8075FAA921BD9F2400697098 /* README.md in Resources */,
 				8075FA9A21BD7F6000697098 /* shoesOne@2x.png in Resources */,
 				8075FA8521BD7F6000697098 /* carFour@2x.png in Resources */,
 				8075FA8921BD7F6000697098 /* goldFive@2x.png in Resources */,
