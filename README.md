@@ -19,14 +19,14 @@ Step 2 :
     globalSearchViewCon.searchViewDelegate = self;
     [globalSearchViewCon setupSearchViewController: self];
 
-Step 2 :
+Step 3 :
 
 //  Show on any click event
         
 [globalSearchViewCon showSearchView];
 
 
-Step 3 :
+Step 4 :
 
 //  This step is optional
 
