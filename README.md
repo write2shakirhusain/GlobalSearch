@@ -3,7 +3,7 @@
 //  Copyright © 2018 Shakir Husain. All rights reserved.
 
 This is very  useful when we wanna create global search functionality in our iOS app
-The integrations very simple in Four steps :
+The integration is very simple in Four steps :
 
 Step 1 :
 
@@ -33,20 +33,15 @@ Step 3 :
 // Implement global search view delegate if required.
 
 -(void)didShowSearchView:(GlobalSearchViewController *)innSearch{
-    [rightBarButton setTitle:@"Done"];
+
 }
 
 -(void)didHideSearchView:(GlobalSearchViewController *)innSearch{
-    [rightBarButton setTitle:@"Global Search"];
+
 }
 
 -(void)didSelectSearchData:(GlobalSearchViewController *)inSearch andSearchData:(id)inData{
    
-    GlobalSearchDetailViewController *aViewCon = [self.storyboard instantiateViewControllerWithIdentifier:@"GlobalSearchDetailViewController"];
-    
-    aViewCon.dataDict = inData;
-    [self.navigationController pushViewController:aViewCon animated: YES];
-
 }
 
 
